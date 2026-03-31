@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Liaqat Naveed</h1>
+<h3 align="center">🚀 ServiceNow Developer | Backend Learner</h3>
 
-<!--
-**LiaqatNavid/LiaqatNavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🔭 Working on ServiceNow (ITAM, HAM, SAM)
+- 🌱 Learning Python & PostgreSQL
+- 💬 Ask me about ServiceNow & Backend
+- ⚡ Fun fact: I turn ☕ into code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills
+- ServiceNow
+- JavaScript
+- Python (Learning)
+- PostgreSQL
+
+---
+
+### 📫 Contact
+- Email: your-email@example.com
