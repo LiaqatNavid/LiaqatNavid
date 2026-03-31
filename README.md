@@ -15,7 +15,62 @@
 </p>
 
 ---
+### 🧾 Premium Case Study  
+#### 🔷 Enterprise Accounting & ERP System (PHP / Laravel / CodeIgniter)
 
+**📌 Overview**  
+Developed a scalable accounting & ERP solution to manage financial operations, reporting, and business workflows.
+
+---
+
+**⚠️ Problem**  
+- Manual financial tracking using spreadsheets  
+- Data inconsistency and reporting delays  
+- Lack of centralized system for vouchers, ledgers, and transactions  
+
+---
+
+**💡 Solution**  
+- Designed and developed a **web-based accounting system** using **Laravel & CodeIgniter**  
+- Implemented **modular architecture** for scalability  
+- Created **REST-based structure** for future integrations  
+- Built dynamic reporting dashboards  
+
+---
+
+**🏗️ Architecture**  
+- Backend: PHP (Laravel / CodeIgniter)  
+- Database: PostgreSQL / MySQL  
+- Pattern: MVC Architecture  
+- APIs: REST-based services  
+- Authentication: Role-based access control  
+
+---
+
+**⚙️ Key Features**  
+- General Ledger & Chart of Accounts  
+- Voucher Management System  
+- Financial Reports (Balance Sheet, Profit/Loss)  
+- User Roles & Permissions  
+- Data validation & transaction integrity  
+
+---
+
+**📈 Impact**  
+- ⏱️ Reduced manual effort by **60%+**  
+- 📊 Improved reporting speed and accuracy  
+- 🔐 Enhanced data integrity and access control  
+- 🚀 Scalable system ready for future integrations  
+
+---
+
+**🧠 Engineering Highlights**  
+- Optimized SQL queries for performance  
+- Implemented structured database relationships  
+- Focused on clean, maintainable code  
+- Designed for real-world business use  
+
+---
 ### 👨‍💻 Professional Summary
 - 💼 Specialized in **ServiceNow (ITAM, HAM, SAM, CMDB)**
 - 🧠 Strong expertise in **Backend Development & System Design**
