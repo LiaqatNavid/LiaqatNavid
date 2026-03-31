@@ -40,9 +40,6 @@
 
 ---
 
-
----
-
 ### 🧾 Premium Case Study  
 #### 🔷 Enterprise Accounting & ERP System (PHP / Laravel / CodeIgniter)
 
@@ -107,13 +104,6 @@ Developed a scalable accounting & ERP solution to manage financial operations, r
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiaqatNavid&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LiaqatNavid&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ### 🧠 Core Expertise
 - ServiceNow Development & CMDB Architecture  
