@@ -36,12 +36,8 @@
 ### 📌 Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/LiaqatNavid/Keep-PDI-Alive">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LiaqatNavid&repo=Keep-PDI-Alive&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/LiaqatNavid/Ping-my-PDI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LiaqatNavid&repo=Ping-my-PDI&theme=tokyonight&hide_border=true" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LiaqatNavid&repo=Keep-PDI-Alive" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LiaqatNavid&repo=Ping-my-PDI" />
 </p>
 
 ---
