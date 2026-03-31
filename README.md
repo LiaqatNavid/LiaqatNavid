@@ -1,4 +1,4 @@
-<h1 align="center">Liaqat Naveed</h1>
+<h1 align="center">LIAQAT NAVEED </h1>
 <h3 align="center">🚀 ServiceNow Developer | Backend Engineer | Database Specialist</h3>
 
 <p align="center">
