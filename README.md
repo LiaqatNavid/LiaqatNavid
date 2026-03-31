@@ -1,4 +1,4 @@
-<h1 align="center">Liaqat Naveed</h1>
+<h1 align="center">LIAQAT NAVEED </h1>
 <h3 align="center">🚀 ServiceNow Developer • Backend Engineer • Database Specialist</h3>
 
 <p align="center">
@@ -40,16 +40,6 @@
 
 ---
 
-### 📌 Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/LiaqatNavid/Keep-PDI-Alive">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LiaqatNavid&repo=Keep-PDI-Alive&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/LiaqatNavid/Ping-my-PDI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LiaqatNavid&repo=Ping-my-PDI&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
 
 ---
 
