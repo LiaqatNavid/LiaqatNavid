@@ -1,5 +1,5 @@
 <h1 align="center">Liaqat Naveed</h1>
-<h3 align="center">🚀 ServiceNow Developer | Backend Engineer | Database Specialist</h3>
+<h3 align="center">🚀 ServiceNow Developer • Backend Engineer • Database Specialist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LiaqatNavid&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
@@ -15,6 +15,44 @@
 </p>
 
 ---
+
+### 👨‍💻 Professional Summary
+- 💼 Specialized in **ServiceNow (ITAM, HAM, SAM, CMDB)**
+- 🧠 Strong expertise in **Backend Development & System Design**
+- 🗄️ Advanced knowledge of **Databases (PostgreSQL, Oracle, MySQL)**
+- ⚙️ Experienced in **PHP (Laravel, CodeIgniter) & Backend Systems**
+- 📈 Delivering **scalable, optimized & production-ready solutions**
+
+---
+
+### 🔭 Current Focus
+- Building scalable ServiceNow solutions  
+- Enhancing backend systems & automation  
+- Working on database optimization & integrations  
+
+---
+
+### 🛠️ Technical Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,js,postgres,mysql,git,github" />
+</p>
+
+---
+
+### 📌 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/LiaqatNavid/Keep-PDI-Alive">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LiaqatNavid&repo=Keep-PDI-Alive&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/LiaqatNavid/Ping-my-PDI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LiaqatNavid&repo=Ping-my-PDI&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
 ### 🧾 Premium Case Study  
 #### 🔷 Enterprise Accounting & ERP System (PHP / Laravel / CodeIgniter)
 
@@ -71,58 +109,18 @@ Developed a scalable accounting & ERP solution to manage financial operations, r
 - Designed for real-world business use  
 
 ---
-### 👨‍💻 Professional Summary
-- 💼 Specialized in **ServiceNow (ITAM, HAM, SAM, CMDB)**
-- 🧠 Strong expertise in **Backend Development & System Design**
-- 🗄️ Advanced knowledge of **Databases (PostgreSQL, Oracle, MySQL)**
-- ⚙️ Experienced in **PHP (Laravel, CodeIgniter) & Backend Systems**
-- 📈 Delivering **scalable, optimized & production-ready solutions**
-
----
-
-### 🛠️ Technical Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,js,postgres,mysql,git,github" />
-</p>
-
----
-### 🧾 Project Case Studies
-
-#### 🔹 ServiceNow Automation (ITAM / HAM / CMDB)
-- **Problem:** Manual asset tracking & inconsistent CMDB data  
-- **Solution:** Designed automated workflows & validation logic  
-- **Impact:** Improved data accuracy & reduced manual effort  
-
----
-
-#### 🔹 Accounting & ERP Systems (PHP / Laravel / CodeIgniter)
-- **Problem:** Manual financial tracking & inefficient reporting  
-- **Solution:** Developed accounting modules using Laravel & CodeIgniter  
-- **Features:** Ledger management, vouchers, reporting dashboards  
-- **Impact:** Streamlined financial operations & improved reporting accuracy  
-
----
-
-#### 🔹 Database Optimization (Oracle / PostgreSQL)
-- **Problem:** Slow queries & inefficient reporting  
-- **Solution:** Optimized SQL queries, indexing & structure  
-- **Impact:** Improved performance and reporting speed  
-
----
-
-#### 🔹 Backend Utility Tools
-- **Problem:** Repetitive manual operational tasks  
-- **Solution:** Developed automation scripts & backend tools  
-- **Impact:** Increased efficiency & reduced workload  
-
----
 
 ### 📊 GitHub Performance
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LiaqatNavid&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiaqatNavid&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LiaqatNavid&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -152,4 +150,10 @@ Developed a scalable accounting & ERP solution to manage financial operations, r
 
 <p align="center">
   ⚡ "Engineering scalable systems with precision, performance, and reliability."
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LiaqatNavid/LiaqatNavid/output/github-contribution-grid-snake.svg" />
 </p>
