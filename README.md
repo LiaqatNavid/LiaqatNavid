@@ -32,16 +32,6 @@
 </p>
 
 ---
-
-### 📌 Featured Repositories
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LiaqatNavid&repo=Keep-PDI-Alive" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LiaqatNavid&repo=Ping-my-PDI" />
-</p>
-
----
-
 ### 🧾 Project Case Studies
 
 #### 🔹 ServiceNow Automation (ITAM / HAM / CMDB)
