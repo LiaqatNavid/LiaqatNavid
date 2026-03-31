@@ -1,4 +1,4 @@
-<h1 align="center">LIAQAT NAVEED </h1>
+<h1 align="center">Liaqat Naveed</h1>
 <h3 align="center">🚀 ServiceNow Developer | Backend Engineer | Database Specialist</h3>
 
 <p align="center">
@@ -6,12 +6,12 @@
   <img src="https://img.shields.io/badge/Experience-Backend%20Engineer-blue?style=for-the-badge&logo=codeforces" />
   <img src="https://img.shields.io/badge/ServiceNow-ITAM%20%7C%20HAM%20%7C%20SAM-green?style=for-the-badge&logo=servicenow" />
   <img src="https://img.shields.io/badge/Database-PostgreSQL%20%7C%20Oracle%20%7C%20MySQL-orange?style=for-the-badge&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Focus-Automation%20%26%20Optimization-purple?style=for-the-badge&logo=githubactions" />
+  <img src="https://img.shields.io/badge/PHP-Laravel%20%7C%20CodeIgniter-purple?style=for-the-badge&logo=php" />
   <img src="https://img.shields.io/badge/APIs-REST%20Integration-red?style=for-the-badge&logo=fastapi" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=ServiceNow+Expert;Backend+Engineer;Database+Specialist;Automation+%7C+Integration+%7C+Optimization" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=ServiceNow+Expert;Backend+Engineer;Database+Specialist;PHP+%7C+Laravel+%7C+CodeIgniter;Automation+%7C+Integration+%7C+Optimization" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 - 💼 Specialized in **ServiceNow (ITAM, HAM, SAM, CMDB)**
 - 🧠 Strong expertise in **Backend Development & System Design**
 - 🗄️ Advanced knowledge of **Databases (PostgreSQL, Oracle, MySQL)**
-- ⚙️ Experienced in **Automation, Scripting & Integrations**
+- ⚙️ Experienced in **PHP (Laravel, CodeIgniter) & Backend Systems**
 - 📈 Delivering **scalable, optimized & production-ready solutions**
 
 ---
@@ -28,7 +28,7 @@
 ### 🛠️ Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,postgres,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,js,postgres,mysql,git,github" />
 </p>
 
 ---
@@ -43,29 +43,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LiaqatNavid&repo=Ping-my-PDI&theme=tokyonight&hide_border=true" />
   </a>
 </p>
-
----
-
-### 🧾 Project Case Studies
-
-#### 🔹 ServiceNow Automation (ITAM / HAM / CMDB)
-- **Problem:** Manual asset tracking & inconsistent CMDB data  
-- **Solution:** Designed automated workflows & validation logic  
-- **Impact:** Improved data accuracy & reduced manual effort  
-
----
-
-#### 🔹 PDF Processing System
-- **Problem:** Manual PDF handling & merging issues  
-- **Solution:** Built automated PDF merge & generation tools  
-- **Impact:** Faster document processing & reduced human error  
-
----
-
-#### 🔹 Database Optimization (Oracle / PostgreSQL)
-- **Problem:** Slow queries & inefficient reporting  
-- **Solution:** Optimized SQL queries, indexing & structure  
-- **Impact:** Improved performance and reporting speed  
 
 ---
 
@@ -120,6 +97,7 @@
 - REST APIs & System Integrations  
 - Database Design & Query Optimization  
 - Backend Architecture & Logic Building  
+- PHP Application Development (Laravel / CodeIgniter)  
 - Automation & Process Engineering  
 
 ---
