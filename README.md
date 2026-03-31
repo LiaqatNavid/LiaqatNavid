@@ -69,9 +69,33 @@
 
 ---
 
+### 🧾 Project Case Studies
+
+#### 🔹 ServiceNow Automation (ITAM / HAM / CMDB)
+- **Problem:** Manual asset tracking & inconsistent CMDB data  
+- **Solution:** Designed automated workflows & validation logic  
+- **Impact:** Improved data accuracy & reduced manual effort  
+
+---
+
+#### 🔹 Accounting & ERP Systems (PHP / Laravel / CodeIgniter)
+- **Problem:** Manual financial tracking & inefficient reporting  
+- **Solution:** Developed accounting modules using Laravel & CodeIgniter  
+- **Features:** Ledger management, vouchers, reporting dashboards  
+- **Impact:** Streamlined financial operations & improved reporting accuracy  
+
+---
+
+#### 🔹 Database Optimization (Oracle / PostgreSQL)
+- **Problem:** Slow queries & inefficient reporting  
+- **Solution:** Optimized SQL queries, indexing & structure  
+- **Impact:** Improved performance and reporting speed  
+
+---
+
 #### 🔹 Backend Utility Tools
 - **Problem:** Repetitive manual operational tasks  
-- **Solution:** Developed automation scripts & tools  
+- **Solution:** Developed automation scripts & backend tools  
 - **Impact:** Increased efficiency & reduced workload  
 
 ---
