@@ -97,14 +97,6 @@ Developed a scalable accounting & ERP solution to manage financial operations, r
 
 ---
 
-### 📊 GitHub Performance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LiaqatNavid&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiaqatNavid&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-
 ### 🧠 Core Expertise
 - ServiceNow Development & CMDB Architecture  
 - REST APIs & System Integrations  
