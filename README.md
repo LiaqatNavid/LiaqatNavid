@@ -72,12 +72,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LiaqatNavid&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ### 🧠 Core Expertise
 - ServiceNow Development & CMDB Architecture  
 - REST APIs & System Integrations  
